@@ -1,0 +1,7 @@
+G:\.net traing\Assignments\Day04\Interfaceconcept\Interfaceconcept\bin\Debug\Interfaceconcept.exe.config
+G:\.net traing\Assignments\Day04\Interfaceconcept\Interfaceconcept\bin\Debug\Interfaceconcept.exe
+G:\.net traing\Assignments\Day04\Interfaceconcept\Interfaceconcept\bin\Debug\Interfaceconcept.pdb
+G:\.net traing\Assignments\Day04\Interfaceconcept\Interfaceconcept\obj\Debug\Interfaceconcept.csprojAssemblyReference.cache
+G:\.net traing\Assignments\Day04\Interfaceconcept\Interfaceconcept\obj\Debug\Interfaceconcept.csproj.CoreCompileInputs.cache
+G:\.net traing\Assignments\Day04\Interfaceconcept\Interfaceconcept\obj\Debug\Interfaceconcept.exe
+G:\.net traing\Assignments\Day04\Interfaceconcept\Interfaceconcept\obj\Debug\Interfaceconcept.pdb
